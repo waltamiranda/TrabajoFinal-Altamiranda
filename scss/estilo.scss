@@ -73,3 +73,14 @@ li {
 .textForm {
     color: $color-principal;
 }
+
+.btn {
+    background-color: $color-principal;
+    color: black;
+    border: white ;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+}

@@ -4,19 +4,14 @@
 }
 
 .navbar-nav-scroll {
-  background-color: white;
-}
-
-.navbar-nav-scroll:hover {
   background-color: black;
-  color: #a6c36f;
 }
 
 main {
   margin: 20px;
   padding: 20px;
   min-height: 100vh;
-  background-image: url(../images/band-gd6baea682_1920.jpg);
+  background-color: black;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -98,6 +93,17 @@ li {
 
 .textForm {
   color: #a6c36f;
+}
+
+.btn {
+  background-color: #a6c36f;
+  color: black;
+  border: white;
+}
+
+.btn:hover {
+  background-color: white;
+  color: black;
 }
 
 /*# sourceMappingURL=estilo.css.map */
