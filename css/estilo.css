@@ -1,4 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Roboto+Condensed&display=swap");
+.nav-item:hover {
+  background-color: white;
+}
+
+.navbar-nav-scroll {
+  background-color: white;
+}
+
+.navbar-nav-scroll:hover {
+  background-color: black;
+  color: #a6c36f;
+}
+
 main {
   margin: 20px;
   padding: 20px;
@@ -84,7 +97,7 @@ li {
 }
 
 .textForm {
-  color: aquamarine;
+  color: #a6c36f;
 }
 
 /*# sourceMappingURL=estilo.css.map */
