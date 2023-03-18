@@ -7,6 +7,14 @@
   background-color: black;
 }
 
+.navbar-toggler {
+  background-color: #a6c36f;
+}
+
+.navbar-expand-lg {
+  z-index: 1 !important;
+}
+
 main {
   margin: 20px;
   padding: 20px;

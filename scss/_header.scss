@@ -1,3 +1,6 @@
+
+
+
 .nav-item:hover {
 
     background-color: white;
@@ -5,4 +8,14 @@
 
 .navbar-nav-scroll {
     background-color: black;
+     
+    
+}
+
+.navbar-toggler {
+    background-color: $color-principal;
+}
+
+.navbar-expand-lg{
+    z-index:  1 !important; 
 }
